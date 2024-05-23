@@ -1,0 +1,25 @@
+2024-05-16 21:09:07.369 [info] Log level: Info
+2024-05-16 21:09:07.369 [info] Validating found git in: "git"
+2024-05-16 21:09:07.369 [info] Using git "2.34.1" from "git"
+2024-05-16 21:09:07.369 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-16 21:09:07.369 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-16 21:09:07.369 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-16 21:09:07.369 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-16 21:09:07.369 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-16 21:09:07.369 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-16 21:09:07.373 [info] > git rev-parse --show-toplevel [0ms]
+2024-05-16 21:09:07.373 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-16 21:09:07.377 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-16 21:09:07.377 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-16 21:09:07.380 [info] > git rev-parse --show-toplevel [0ms]
+2024-05-16 21:09:07.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-16 21:09:07.408 [info] > git rev-parse --show-toplevel [25ms]
+2024-05-16 21:09:07.408 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-16 21:09:07.415 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-16 21:09:07.415 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-16 21:09:07.420 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-16 21:09:07.420 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-16 21:09:07.425 [info] > git rev-parse --show-toplevel [0ms]
+2024-05-16 21:09:07.425 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-16 21:17:10.613 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-16 21:17:10.613 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: django-peeringdb
+Version: 3.4.0
+Summary: PeeringDB Django models
+Home-page: https://github.com/peeringdb/django-peeringdb
+License: Apache-2.0
+Author: PeeringDB
+Author-email: support@peeringdb.com
+Requires-Python: >=3.8,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Framework :: Django :: 3.1
+Classifier: Framework :: Django :: 3.2
+Classifier: Framework :: Django :: 4.0
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: asgiref (>=3)
+Requires-Dist: django_countries (>1)
+Requires-Dist: django_handleref (>=2)
+Requires-Dist: django_inet (>=1)
+Project-URL: Repository, https://github.com/peeringdb/django-peeringdb
+Description-Content-Type: text/markdown
+
+
+# django-peeringdb
+
+[![PyPI](https://img.shields.io/pypi/v/django_peeringdb.svg?maxAge=2592000)](https://pypi.python.org/pypi/django_peeringdb)
+[![PyPI](https://img.shields.io/pypi/pyversions/django-peeringdb.svg)](https://pypi.python.org/pypi/django-peeringdb)
+[![Tests](https://github.com/peeringdb/django-peeringdb/workflows/tests/badge.svg)](https://github.com/peeringdb/django-peeringdb/actions/workflows/tests.yml)
+[![Codecov](https://img.shields.io/codecov/c/github/peeringdb/django-peeringdb/master.svg?maxAge=2592000)](https://codecov.io/github/peeringdb/django-peeringdb)
+
+Django models for PeeringDB
+
+See the docs at http://peeringdb.github.io/django-peeringdb/
+
+

@@ -1,0 +1,49 @@
+2024-05-23 07:35:29.051 [info] 
+
+
+
+
+2024-05-23 07:35:29.056 [info] Extension host agent started.
+2024-05-23 07:35:29.160 [info] [<unknown>][3612ea52][ManagementConnection] New connection established.
+2024-05-23 07:35:29.163 [info] [<unknown>][5577423e][ExtensionHostConnection] New connection established.
+2024-05-23 07:35:29.363 [info] [<unknown>][5577423e][ExtensionHostConnection] <4002140> Launched Extension Host Process.
+2024-05-23 07:40:29.057 [info] New EH opened, aborting shutdown
+2024-05-23 08:03:08.075 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 08:03:43.073 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 08:19:03.411 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 08:19:03.415 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/eric/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/out/vs/server/node/server.main.js:189:6057)
+    at process.emit (node:events:517:28)
+2024-05-23 08:19:03.419 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 08:37:14.614 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 08:37:50.651 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 08:53:56.381 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 08:53:56.387 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 09:10:47.437 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 09:11:23.299 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 09:29:09.412 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 09:29:09.419 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 09:47:18.452 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 09:47:54.029 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 10:03:45.436 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 10:03:45.442 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 10:20:19.339 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 10:20:55.259 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 10:37:06.646 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 10:37:06.650 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 10:53:10.335 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 10:53:45.699 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 11:09:18.451 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 11:09:18.459 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 11:25:03.390 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 11:25:39.308 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 11:43:28.419 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 11:43:28.426 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 11:45:27.060 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 11:46:01.058 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 12:14:58.516 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 12:14:58.519 [info] [<unknown>][5577423e][ExtensionHostConnection] The client has reconnected.
+2024-05-23 12:34:45.658 [info] [<unknown>][3612ea52][ManagementConnection] The client has reconnected.
+2024-05-23 12:39:45.853 [info] [<unknown>][5577423e][ExtensionHostConnection] <4002140> Extension Host Process exited with code: 0, signal: null.
+2024-05-23 12:39:45.853 [info] Last EH closed, waiting before shutting down
+2024-05-23 12:44:45.855 [info] Last EH closed, shutting down

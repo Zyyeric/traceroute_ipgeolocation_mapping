@@ -1,0 +1,1 @@
+["numpy", "pytest-asyncio", "rich", "pytest-timeout", "ripgrep", "pytest", "pip", "dask", "keras"]

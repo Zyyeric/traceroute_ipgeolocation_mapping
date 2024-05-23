@@ -1,0 +1,79 @@
+{
+  "paths": [
+    {
+      "_path": "include/reproc/drain.h",
+      "path_type": "hardlink",
+      "sha256": "85c4cf3387d3e3a05a737687d086c9e7cf241f2be9c4f55ddc566a9d1baecb99",
+      "size_in_bytes": 2931
+    },
+    {
+      "_path": "include/reproc/export.h",
+      "path_type": "hardlink",
+      "sha256": "adaf50bb4c4964fc17295f12d60dd128c7b4a2633b9dfbd1507dce8089371051",
+      "size_in_bytes": 451
+    },
+    {
+      "_path": "include/reproc/reproc.h",
+      "path_type": "hardlink",
+      "sha256": "4c7bfdc442b8ad363c0c43a5bb8a22f3352fb5df23a302992d8c9933ea9046a4",
+      "size_in_bytes": 18656
+    },
+    {
+      "_path": "include/reproc/run.h",
+      "path_type": "hardlink",
+      "sha256": "9979e373828d243e2261039a52a0f695f27b0e5eaf0cda2e00531f46094a2b54",
+      "size_in_bytes": 882
+    },
+    {
+      "_path": "lib/cmake/reproc/reproc-config-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "243b231c639f70b7ee8d8b166f9f3fe40986a5e8123768448e1d5091af3a6799",
+      "size_in_bytes": 2881
+    },
+    {
+      "_path": "lib/cmake/reproc/reproc-config.cmake",
+      "path_type": "hardlink",
+      "sha256": "06befcb259155c51e608af2dade2b9489b0fa76c41343c193b5e073f142b203e",
+      "size_in_bytes": 1101
+    },
+    {
+      "_path": "lib/cmake/reproc/reproc-targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "bb5d2784c21c608f0d6a76badc0f7b605bef7246b002790d03d0c6aadb914987",
+      "size_in_bytes": 801
+    },
+    {
+      "_path": "lib/cmake/reproc/reproc-targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "86cd7f3ce33c4ea72559fea8ca06733174daeb8456217cf0e66c18a72c71b490",
+      "size_in_bytes": 3267
+    },
+    {
+      "_path": "lib/libreproc.so",
+      "path_type": "softlink",
+      "sha256": "17c88ce0fdd518b09c3bf7cf47d2545b94dc413db85bbeb9d42186edbafe4cdb",
+      "size_in_bytes": 37000
+    },
+    {
+      "_path": "lib/libreproc.so.14",
+      "path_type": "softlink",
+      "sha256": "17c88ce0fdd518b09c3bf7cf47d2545b94dc413db85bbeb9d42186edbafe4cdb",
+      "size_in_bytes": 37000
+    },
+    {
+      "_path": "lib/libreproc.so.14.2.4",
+      "path_type": "hardlink",
+      "sha256": "17c88ce0fdd518b09c3bf7cf47d2545b94dc413db85bbeb9d42186edbafe4cdb",
+      "size_in_bytes": 37000
+    },
+    {
+      "_path": "lib/pkgconfig/reproc.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/tmp/build/80754af9/reproc_1647441763203/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+      "sha256": "a28ed5c296980cb1d5bf22d12913cbbc3c232512b18d7680115ee1206a93fa97",
+      "size_in_bytes": 545
+    }
+  ],
+  "paths_version": 1
+}

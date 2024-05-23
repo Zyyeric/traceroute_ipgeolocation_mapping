@@ -1,0 +1,19 @@
+{
+  "build": "h5eee18b_5",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0"
+  ],
+  "fn": "bzip2-1.0.8-h5eee18b_5.conda",
+  "license": "bzip2-1.0.8",
+  "md5": "9c8dec113089c4aca7392c6a3864f505",
+  "name": "bzip2",
+  "sha256": "5c4c482700eb54f08e1f740101e432237721b2dad74ca1b7d8cba119c70b2e32",
+  "size": 268290,
+  "subdir": "linux-64",
+  "timestamp": 1709103505000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/bzip2-1.0.8-h5eee18b_5.conda",
+  "version": "1.0.8"
+}

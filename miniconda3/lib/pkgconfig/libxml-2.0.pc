@@ -1,0 +1,13 @@
+prefix=/home/eric/miniconda3
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.10.4
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private: -L/home/eric/miniconda3/lib -lz -L/home/eric/miniconda3/lib -llzma  -L/home/eric/miniconda3/lib -L/home/eric/miniconda3/lib -licui18n -licuuc -licudata -lm  
+Cflags: -I${includedir}/libxml2 -I/home/eric/miniconda3/include 

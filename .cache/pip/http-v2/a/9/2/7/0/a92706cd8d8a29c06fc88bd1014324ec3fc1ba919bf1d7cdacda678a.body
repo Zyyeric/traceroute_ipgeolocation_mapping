@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: peeringdb
+Version: 2.0.0
+Summary: PeeringDB Django models
+Home-page: https://github.com/peeringdb/peeringdb-py
+License: Apache-2.0
+Author: PeeringDB
+Author-email: support@peeringdb.com
+Requires-Python: >=3.8,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Framework :: Django :: 3.2
+Classifier: Framework :: Django :: 4.2
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Telecommunications Industry
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: confu (>=1,<2)
+Requires-Dist: httpx (>=0.24.1)
+Requires-Dist: munge[yaml,tomlkit] (>=1.2.0,<2.0.0)
+Requires-Dist: pyyaml (>=6.0.1,<7.0.0)
+Requires-Dist: twentyc.rpc (>=1,<2)
+Project-URL: Repository, https://github.com/peeringdb/peeringdb-py
+Description-Content-Type: text/markdown
+
+# peeringdb-py
+
+[![PyPI](https://img.shields.io/pypi/v/peeringdb.svg?maxAge=3600)](https://pypi.python.org/pypi/peeringdb)
+[![Tests](https://github.com/peeringdb/peeringdb-py/workflows/tests/badge.svg)](https://github.com/peeringdb/peeringdb-py)
+[![Codecov](https://img.shields.io/codecov/c/github/peeringdb/peeringdb-py/master.svg?maxAge=3600)](https://codecov.io/github/peeringdb/peeringdb-py)
+
+PeeringDB python client
+
+We have an installation guide on our [documentation site](https://docs.peeringdb.com/howto/peeringdb-py/).
+

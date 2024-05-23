@@ -1,0 +1,2 @@
+/home/eric/miniconda3
+/home/eric/miniconda3/envs/geo

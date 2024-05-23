@@ -1,0 +1,19 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "certifi-2024.2.2-py312h06a4308_0.conda",
+  "license": "MPL-2.0",
+  "md5": "eb1a84cfcbb04105e1b2d28733773066",
+  "name": "certifi",
+  "sha256": "f4fd9a29c2629c04b64a00014d641ee715a88c1a6c9a7d0583d1f6e89ca04165",
+  "size": 163757,
+  "subdir": "linux-64",
+  "timestamp": 1707229273000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/certifi-2024.2.2-py312h06a4308_0.conda",
+  "version": "2024.2.2"
+}

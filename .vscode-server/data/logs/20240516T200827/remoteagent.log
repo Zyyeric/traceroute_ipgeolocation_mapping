@@ -1,0 +1,73 @@
+2024-05-16 20:08:27.224 [info] 
+
+
+
+
+2024-05-16 20:08:27.224 [info] Extension host agent started.
+2024-05-16 20:08:27.224 [info] Started initializing default profile extensions in extensions installation folder. file:///home/eric/.vscode-server/extensions
+2024-05-16 20:08:27.244 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/eric/.vscode-server/extensions
+2024-05-16 20:08:27.375 [info] [<unknown>][0319e13d][ExtensionHostConnection] New connection established.
+2024-05-16 20:08:27.377 [info] [<unknown>][7723b022][ManagementConnection] New connection established.
+2024-05-16 20:08:27.525 [info] [<unknown>][0319e13d][ExtensionHostConnection] <3548327> Launched Extension Host Process.
+2024-05-16 20:08:30.627 [info] [<unknown>][6d8ded2c][ManagementConnection] New connection established.
+2024-05-16 20:08:30.631 [info] [<unknown>][ed900bca][ExtensionHostConnection] New connection established.
+2024-05-16 20:08:30.635 [info] [<unknown>][ed900bca][ExtensionHostConnection] <3548406> Launched Extension Host Process.
+2024-05-16 20:09:50.593 [info] Getting Manifest... ms-python.python
+2024-05-16 20:09:50.622 [info] Installing extension: ms-python.python
+2024-05-16 20:09:50.875 [info] Getting Manifest... ms-python.vscode-pylance
+2024-05-16 20:09:50.891 [info] Getting Manifest... ms-python.debugpy
+2024-05-16 20:09:50.930 [info] Installing extension: ms-python.vscode-pylance
+2024-05-16 20:09:50.930 [info] Installing extension: ms-python.debugpy
+2024-05-16 20:09:51.979 [info] Extension signature verification result for ms-python.python: Success. Duration: 703ms.
+2024-05-16 20:09:51.983 [info] Extension signature verification result for ms-python.debugpy: Success. Duration: 651ms.
+2024-05-16 20:09:52.004 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Duration: 686ms.
+2024-05-16 20:09:52.146 [info] Extracted extension to file:///home/eric/.vscode-server/extensions/ms-python.debugpy-2024.6.0-linux-x64: ms-python.debugpy
+2024-05-16 20:09:52.170 [info] Renamed to /home/eric/.vscode-server/extensions/ms-python.debugpy-2024.6.0-linux-x64
+2024-05-16 20:09:52.172 [info] Extracting extension completed. ms-python.debugpy
+2024-05-16 20:09:52.422 [info] Extracted extension to file:///home/eric/.vscode-server/extensions/ms-python.python-2024.6.0: ms-python.python
+2024-05-16 20:09:52.446 [info] Renamed to /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0
+2024-05-16 20:09:52.448 [info] Extracting extension completed. ms-python.python
+2024-05-16 20:09:52.816 [info] Extracted extension to file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1: ms-python.vscode-pylance
+2024-05-16 20:09:52.841 [info] Renamed to /home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1
+2024-05-16 20:09:52.846 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-05-16 20:09:52.860 [info] Extension installed successfully: ms-python.debugpy
+2024-05-16 20:09:52.861 [info] Extension installed successfully: ms-python.python
+2024-05-16 20:09:52.861 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-05-16 20:13:27.208 [info] New EH opened, aborting shutdown
+2024-05-16 20:13:30.846 [info] [<unknown>][0319e13d][ExtensionHostConnection] <3548327> Extension Host Process exited with code: 0, signal: null.
+2024-05-16 20:17:37.331 [info] [<unknown>][6d8ded2c][ManagementConnection] The client has reconnected.
+2024-05-16 20:22:12.672 [info] [<unknown>][ed900bca][ExtensionHostConnection] The client has reconnected.
+2024-05-16 20:22:12.676 [info] [<unknown>][6d8ded2c][ManagementConnection] The client has reconnected.
+2024-05-16 20:22:12.678 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/eric/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/out/vs/server/node/server.main.js:189:6057)
+    at process.emit (node:events:517:28)
+2024-05-16 20:31:00.501 [info] [<unknown>][6d8ded2c][ManagementConnection] The client has reconnected.
+2024-05-16 20:31:36.326 [info] [<unknown>][ed900bca][ExtensionHostConnection] The client has reconnected.
+2024-05-16 20:35:36.077 [info] [<unknown>][6d8ded2c][ManagementConnection] The client has reconnected.
+2024-05-16 20:35:36.084 [info] [<unknown>][ed900bca][ExtensionHostConnection] The client has reconnected.
+2024-05-16 20:36:11.104 [info] [<unknown>][6d8ded2c][ManagementConnection] The client has reconnected.
+2024-05-16 20:36:24.706 [info] [<unknown>][6d8ded2c][ManagementConnection] The client has reconnected.
+2024-05-16 20:37:48.147 [info] [<unknown>][6d8ded2c][ManagementConnection] The client has reconnected.
+2024-05-16 20:38:00.321 [info] [<unknown>][6d8ded2c][ManagementConnection] The client has reconnected.
+2024-05-16 20:40:46.502 [info] [<unknown>][6d8ded2c][ManagementConnection] The client has reconnected.
+2024-05-16 20:40:50.602 [info] [<unknown>][ed900bca][ExtensionHostConnection] The client has reconnected.
+2024-05-16 20:54:26.044 [info] [<unknown>][eb2bb1f9][ManagementConnection] New connection established.
+2024-05-16 20:54:26.049 [info] [<unknown>][a0bb8369][ExtensionHostConnection] New connection established.
+2024-05-16 20:54:26.060 [info] [<unknown>][a0bb8369][ExtensionHostConnection] <3554109> Launched Extension Host Process.
+2024-05-16 20:54:32.922 [info] [<unknown>][66a6b421][ExtensionHostConnection] New connection established.
+2024-05-16 20:54:32.933 [info] [<unknown>][66a6b421][ExtensionHostConnection] <3554176> Launched Extension Host Process.
+2024-05-16 20:54:32.934 [info] [<unknown>][322728ab][ManagementConnection] New connection established.
+2024-05-16 20:59:26.204 [info] [<unknown>][ed900bca][ExtensionHostConnection] <3548406> Extension Host Process exited with code: 0, signal: null.
+2024-05-16 20:59:33.164 [info] [<unknown>][a0bb8369][ExtensionHostConnection] <3554109> Extension Host Process exited with code: 0, signal: null.
+2024-05-16 21:09:03.691 [info] [<unknown>][322728ab][ManagementConnection] The client has reconnected.
+2024-05-16 21:09:05.693 [info] [<unknown>][4c986c3e][ExtensionHostConnection] New connection established.
+2024-05-16 21:09:05.707 [info] [<unknown>][4c986c3e][ExtensionHostConnection] <3555292> Launched Extension Host Process.
+2024-05-16 21:09:05.707 [info] [<unknown>][a8f1c8ea][ManagementConnection] New connection established.
+2024-05-16 21:14:03.849 [info] [<unknown>][66a6b421][ExtensionHostConnection] <3554176> Extension Host Process exited with code: 0, signal: null.
+2024-05-16 21:17:10.526 [info] [<unknown>][a8f1c8ea][ManagementConnection] The client has reconnected.
+2024-05-16 21:17:10.540 [info] [<unknown>][4c986c3e][ExtensionHostConnection] The client has reconnected.
+2024-05-16 21:34:05.421 [info] [<unknown>][a8f1c8ea][ManagementConnection] The client has reconnected.
+2024-05-16 21:39:05.648 [info] [<unknown>][4c986c3e][ExtensionHostConnection] <3555292> Extension Host Process exited with code: 0, signal: null.
+2024-05-16 21:39:05.648 [info] Last EH closed, waiting before shutting down
+2024-05-16 21:43:42.418 [info] [<unknown>][a8f1c8ea][ManagementConnection] The client has reconnected.
+2024-05-16 21:44:05.649 [info] Last EH closed, shutting down

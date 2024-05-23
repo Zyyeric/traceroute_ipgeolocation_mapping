@@ -1,0 +1,6 @@
+[console_scripts]
+peeringdb=peeringdb.cli:main
+
+[markdown.extensions]
+pymdgen=pymdgen.md:Extension
+

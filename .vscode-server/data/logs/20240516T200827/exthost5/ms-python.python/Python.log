@@ -1,0 +1,39 @@
+2024-05-16 21:09:07.173 [info] Experiment 'pythonCreateEnvOnPipInstallcf' is active
+2024-05-16 21:09:07.173 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-16 21:09:07.173 [info] Experiment 'pythonSurveyNotification' is active
+2024-05-16 21:09:07.173 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-16 21:09:07.173 [info] Experiment 'pythonTestAdapter' is active
+2024-05-16 21:09:07.173 [info] Default formatter is set to null for workspace /home/eric
+2024-05-16 21:09:07.173 [info] Python interpreter path: ./miniconda3/bin/python
+2024-05-16 21:09:07.252 [info] > pyenv which python
+2024-05-16 21:09:07.252 [info] cwd: .
+2024-05-16 21:09:07.315 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-05-16 21:09:07.337 [info] > conda info --json
+2024-05-16 21:09:07.406 [info] > conda info --json
+2024-05-16 21:09:07.406 [info] shell: bash
+2024-05-16 21:09:07.538 [info] Shell integration status changed, can confirm it's working.
+2024-05-16 21:09:07.617 [info] > conda run -n base --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-16 21:09:07.617 [info] shell: bash
+2024-05-16 21:09:07.684 [info] > conda run -n base --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-16 21:09:07.684 [info] shell: bash
+2024-05-16 21:09:07.684 [info] > conda run -n base --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-16 21:09:07.684 [info] shell: bash
+2024-05-16 21:09:07.897 [info] > /usr/bin/python3 ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-16 21:09:07.897 [info] shell: other
+2024-05-16 21:09:07.899 [info] Setting environment variable PYTHONUNBUFFERED in collection to 1 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.899 [info] Setting environment variable CONDA_ROOT in collection to /home/eric/miniconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.899 [info] Setting environment variable PYTHONIOENCODING in collection to utf-8 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.899 [info] Setting environment variable LC_CTYPE in collection to C.UTF-8 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.955 [info] Setting environment variable PYTHONUNBUFFERED in collection to 1 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.955 [info] Setting environment variable CONDA_ROOT in collection to /home/eric/miniconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.955 [info] Setting environment variable PYTHONIOENCODING in collection to utf-8 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.955 [info] Setting environment variable LC_CTYPE in collection to C.UTF-8 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.956 [info] Send text to terminal: /usr/bin/python3 /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+2024-05-16 21:09:07.956 [info] Setting environment variable PYTHONUNBUFFERED in collection to 1 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.956 [info] Setting environment variable CONDA_ROOT in collection to /home/eric/miniconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.956 [info] Setting environment variable PYTHONIOENCODING in collection to utf-8 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:07.956 [info] Setting environment variable LC_CTYPE in collection to C.UTF-8 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 21:09:08.106 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 21:09:08.121 [info] Starting Pylance language server.
+2024-05-16 21:09:12.403 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 21:09:13.004 [info] > conda info --json

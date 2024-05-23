@@ -1,0 +1,23 @@
+2024-05-23 07:35:31.584 [info] (Client) Pylance async client (2024.5.1) started with python extension (2024.6.0)
+2024-05-23 07:35:31.808 [info] [Info  - 7:35:31 AM] (4002300) Pylance language server 2024.5.1 (pyright version 1.1.360, commit 4bc8428d) starting
+2024-05-23 07:35:31.808 [info] [Info  - 7:35:31 AM] (4002300) Server root directory: file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-23 07:35:31.808 [info] [Info  - 7:35:31 AM] (4002300) Starting service instance "eric"
+2024-05-23 07:35:31.808 [info] [Info  - 7:35:31 AM] (4002300) Auto-Indent enabled
+2024-05-23 07:35:31.822 [info] [Info  - 7:35:31 AM] (4002300) Setting pythonPath for service "eric": "/home/eric/miniconda3/bin/python"
+2024-05-23 07:35:31.822 [info] [Info  - 7:35:31 AM] (4002300) Setting environmentName for service "eric": "3.12.2 (base conda)"
+2024-05-23 07:35:31.836 [info] [Info  - 7:35:31 AM] (4002300) Assuming Python version 3.12.2.final.0
+2024-05-23 07:35:31.936 [info] [Info  - 7:35:31 AM] (4002300) Auto-excluding /home/eric/miniconda3
+2024-05-23 07:35:31.951 [info] [Info  - 7:35:31 AM] (4002300) Found 1 source file
+2024-05-23 07:35:31.996 [info] [Info  - 7:35:31 AM] (4002300) Background analysis(1) root directory: file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-23 07:35:31.998 [info] [Info  - 7:35:31 AM] (4002300) Background analysis(1) started
+2024-05-23 07:35:32.161 [info] [Info  - 7:35:32 AM] (4002300) Indexer background runner(2) root directory: file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist (index)
+2024-05-23 07:35:32.161 [info] [Info  - 7:35:32 AM] (4002300) Indexing(2) started
+2024-05-23 07:35:32.316 [info] [Info  - 7:35:32 AM] (4002300) scanned(2) 42 files over 1 exec env
+2024-05-23 07:35:32.347 [info] [Info  - 7:35:32 AM] (4002300) Setting pythonPath for service "eric": "/home/eric/miniconda3/bin/python"
+2024-05-23 07:35:32.347 [info] [Info  - 7:35:32 AM] (4002300) Setting environmentName for service "eric": "3.12.2 (base conda)"
+2024-05-23 07:35:32.366 [info] [Info  - 7:35:32 AM] (4002300) Assuming Python version 3.12.2.final.0
+2024-05-23 07:35:32.473 [info] [Info  - 7:35:32 AM] (4002300) Auto-excluding /home/eric/miniconda3
+2024-05-23 07:35:32.483 [info] [Info  - 7:35:32 AM] (4002300) Found 1 source file
+2024-05-23 07:35:32.673 [info] [Info  - 7:35:32 AM] (4002300) scanned(2) 42 files over 1 exec env
+2024-05-23 07:35:32.751 [info] [Info  - 7:35:32 AM] (4002300) indexed(2) 23 files over 1 exec env
+2024-05-23 07:35:32.755 [info] [Info  - 7:35:32 AM] (4002300) Indexing finished(2).

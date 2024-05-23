@@ -1,0 +1,11 @@
+{
+  "channel_targets": "defaults",
+  "xz": "5",
+  "target_platform": "linux-64",
+  "c_compiler": "gcc",
+  "c_compiler_version": "11.2.0",
+  "zlib": "1.2",
+  "zstd": "1.5.2",
+  "bzip2": "1.0",
+  "openssl": "3.0"
+}

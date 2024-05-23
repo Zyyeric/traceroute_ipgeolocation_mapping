@@ -1,0 +1,21 @@
+{
+  "build": "py312h5eee18b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.11",
+    "libgcc-ng >=11.2.0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "zstandard-0.19.0-py312h5eee18b_0.conda",
+  "license": "BSD-3-Clause",
+  "md5": "79e4a3fd4af53a459178cb4de8a973c9",
+  "name": "zstandard",
+  "sha256": "3832570b2d5d3a5cbf2b40013b0684676c8f8cc4d658b9e9d07c134e1d62bbcd",
+  "size": 448854,
+  "subdir": "linux-64",
+  "timestamp": 1698847130000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/zstandard-0.19.0-py312h5eee18b_0.conda",
+  "version": "0.19.0"
+}

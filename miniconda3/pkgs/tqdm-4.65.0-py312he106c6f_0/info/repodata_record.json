@@ -1,0 +1,23 @@
+{
+  "build": "py312he106c6f_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [
+    "requests",
+    "slack-sdk",
+    "ipywidgets >=6"
+  ],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "tqdm-4.65.0-py312he106c6f_0.conda",
+  "license": "MPL-2.0 AND MIT",
+  "md5": "d770916e19d551dc7440ab5b130aba02",
+  "name": "tqdm",
+  "sha256": "2c4393d70e3dbabd867f713aafd9af7d14dbd8869bff2d7af713b038eb02aff4",
+  "size": 153677,
+  "subdir": "linux-64",
+  "timestamp": 1701735769000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/tqdm-4.65.0-py312he106c6f_0.conda",
+  "version": "4.65.0"
+}

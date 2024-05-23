@@ -1,0 +1,19 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "distro-1.8.0-py312h06a4308_0.conda",
+  "license": "Apache-2.0",
+  "md5": "5d580a039ea09c590e778350924c0878",
+  "name": "distro",
+  "sha256": "5cf3e418c4dc17690d2b0742226d020a807dada1372b29d873963bdc547e3632",
+  "size": 36267,
+  "subdir": "linux-64",
+  "timestamp": 1701732404000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/distro-1.8.0-py312h06a4308_0.conda",
+  "version": "1.8.0"
+}

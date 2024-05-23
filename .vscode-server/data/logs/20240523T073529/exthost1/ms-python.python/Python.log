@@ -1,0 +1,32 @@
+2024-05-23 07:35:30.868 [info] Experiment 'pythonCreateEnvOnPipInstallcf' is active
+2024-05-23 07:35:30.868 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-23 07:35:30.868 [info] Experiment 'pythonSurveyNotification' is active
+2024-05-23 07:35:30.868 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-23 07:35:30.868 [info] Experiment 'pythonTestAdapter' is active
+2024-05-23 07:35:30.868 [info] Default formatter is set to null for workspace /home/eric
+2024-05-23 07:35:30.868 [info] Python interpreter path: ./miniconda3/bin/python
+2024-05-23 07:35:30.999 [info] > pyenv which python
+2024-05-23 07:35:30.999 [info] cwd: .
+2024-05-23 07:35:31.029 [info] > conda info --json
+2024-05-23 07:35:31.029 [info] shell: bash
+2024-05-23 07:35:31.370 [info] > conda run -n base --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-23 07:35:31.370 [info] shell: bash
+2024-05-23 07:35:31.647 [info] > /usr/bin/python3 ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-23 07:35:31.647 [info] shell: bash
+2024-05-23 07:35:31.659 [info] Setting environment variable CONDA_ROOT in collection to /home/eric/miniconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-23 07:35:31.659 [info] Send text to terminal: /usr/bin/python3 /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+2024-05-23 07:35:31.815 [info] Starting Pylance language server.
+2024-05-23 07:35:36.696 [info] > conda info --json
+2024-05-23 07:39:28.343 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:47:09.467 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:47:11.415 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:47:23.440 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:47:30.827 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:50:08.882 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:50:12.328 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:50:14.927 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:50:18.405 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:50:21.987 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:51:01.878 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:51:10.277 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-23 11:51:20.840 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py

@@ -1,0 +1,19 @@
+2024-05-16 20:54:33.186 [info] Extension host with pid 3554176 started
+2024-05-16 20:54:33.186 [error] Error: EEXIST: file already exists, open '/home/eric/.vscode-server/data/User/workspaceStorage/a31c5cdf813beebb8586e0c5a6fd6a9a/vscode.lock'
+2024-05-16 20:54:33.186 [info] Lock '/home/eric/.vscode-server/data/User/workspaceStorage/a31c5cdf813beebb8586e0c5a6fd6a9a/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-05-16 20:54:33.188 [info] Lock '/home/eric/.vscode-server/data/User/workspaceStorage/a31c5cdf813beebb8586e0c5a6fd6a9a/vscode.lock': The lock does not look stale, elapsed: 431 ms, giving up.
+2024-05-16 20:54:33.203 [info] Lock '/home/eric/.vscode-server/data/User/workspaceStorage/a31c5cdf813beebb8586e0c5a6fd6a9a-1/vscode.lock': Lock acquired.
+2024-05-16 20:54:33.291 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-05-16 20:54:33.292 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-16 20:54:33.538 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-05-16 20:54:33.539 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-05-16 20:54:33.800 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-16 20:54:33.825 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-16 20:54:33.825 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-16 20:54:33.900 [info] Eager extensions activated
+2024-05-16 20:54:33.900 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-16 20:54:33.900 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-16 20:54:44.212 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-05-16 21:14:03.806 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-05-16 21:14:03.807 [info] Lock '/home/eric/.vscode-server/data/User/workspaceStorage/a31c5cdf813beebb8586e0c5a6fd6a9a-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-05-16 21:14:03.828 [info] Extension host with pid 3554176 exiting with code 0

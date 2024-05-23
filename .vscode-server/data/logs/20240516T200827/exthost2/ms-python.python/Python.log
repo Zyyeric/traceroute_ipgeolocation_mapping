@@ -1,0 +1,40 @@
+2024-05-16 20:09:54.107 [info] Experiment 'pythonCreateEnvOnPipInstallcf' is active
+2024-05-16 20:09:54.107 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-16 20:09:54.107 [info] Experiment 'pythonSurveyNotification' is active
+2024-05-16 20:09:54.107 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-16 20:09:54.107 [info] Experiment 'pythonTestAdapter' is active
+2024-05-16 20:09:54.107 [info] Default formatter is set to null for workspace /home/eric
+2024-05-16 20:09:54.113 [info] > hatch env show --json
+2024-05-16 20:09:54.113 [info] cwd: .
+2024-05-16 20:09:54.130 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-16 20:09:54.174 [info] Python interpreter path: /usr/bin/python3
+2024-05-16 20:09:54.180 [info] > conda info --json
+2024-05-16 20:09:54.455 [info] > ./miniconda3/bin/python -I ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-16 20:09:54.476 [info] > pyenv which python
+2024-05-16 20:09:54.476 [info] cwd: .
+2024-05-16 20:09:54.552 [info] > conda info --json
+2024-05-16 20:09:54.552 [info] shell: bash
+2024-05-16 20:09:54.797 [info] > conda run -n base --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-16 20:09:54.797 [info] shell: bash
+2024-05-16 20:09:55.060 [info] > /usr/bin/python3 ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-16 20:09:55.060 [info] shell: bash
+2024-05-16 20:09:55.071 [info] Setting environment variable CONDA_ROOT in collection to /home/eric/miniconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-16 20:09:55.071 [info] Send text to terminal: /usr/bin/python3 /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+2024-05-16 20:09:55.483 [info] Starting Pylance language server.
+2024-05-16 20:10:01.597 [info] Python interpreter path: ./miniconda3/bin/python
+2024-05-16 20:10:18.284 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:10:21.228 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:10:26.670 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:10:30.170 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:10:34.806 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:10:42.868 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:11:02.676 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:11:03.372 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:11:03.865 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:11:04.213 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:11:40.892 [info] Discover tests for workspace name: eric - uri: /home/eric/miniconda3/envs/geo/lib/python3.9/site-packages/~andas/pyproject.toml
+2024-05-16 20:43:37.641 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:43:38.602 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:44:11.656 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:44:15.118 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py
+2024-05-16 20:44:59.314 [info] Discover tests for workspace name: eric - uri: /home/eric/test.py

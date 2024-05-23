@@ -1,0 +1,13 @@
+prefix=/home/eric/miniconda3/envs/geo
+exec_prefix=/home/eric/miniconda3/envs/geo
+libdir=/home/eric/miniconda3/envs/geo/lib
+sharedlibdir=/home/eric/miniconda3/envs/geo/lib
+includedir=/home/eric/miniconda3/envs/geo/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

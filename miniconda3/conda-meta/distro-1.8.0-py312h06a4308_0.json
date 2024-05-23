@@ -1,0 +1,61 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/eric/miniconda3/pkgs/distro-1.8.0-py312h06a4308_0",
+  "features": "",
+  "files": [
+    "bin/distro",
+    "lib/python3.12/site-packages/distro-1.8.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/distro-1.8.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/distro-1.8.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/distro-1.8.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/distro-1.8.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/distro-1.8.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/distro-1.8.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/distro-1.8.0.dist-info/entry_points.txt",
+    "lib/python3.12/site-packages/distro-1.8.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/distro/__init__.py",
+    "lib/python3.12/site-packages/distro/__main__.py",
+    "lib/python3.12/site-packages/distro/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/distro/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/distro/__pycache__/distro.cpython-312.pyc",
+    "lib/python3.12/site-packages/distro/distro.py",
+    "lib/python3.12/site-packages/distro/py.typed"
+  ],
+  "fn": "distro-1.8.0-py312h06a4308_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/eric/miniconda3/pkgs/distro-1.8.0-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "5d580a039ea09c590e778350924c0878",
+  "name": "distro",
+  "package_tarball_full_path": "/home/eric/miniconda3/pkgs/distro-1.8.0-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/distro",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/work/perseverance-python-buildout/croot/distro_1701732366176/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "d2785857638b658b4de5d4928a60d4039986a70ac1d7b8247de42833be65249e",
+        "sha256_in_prefix": "3c604de76c77846bdd8cd7caffaab55d82a54a0dbfece2f0fb4974eb433a008c",
+        "size_in_bytes": 466
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::distro==1.8.0=py312h06a4308_0[md5=5d580a039ea09c590e778350924c0878]",
+  "sha256": "5cf3e418c4dc17690d2b0742226d020a807dada1372b29d873963bdc547e3632",
+  "size": 36267,
+  "subdir": "linux-64",
+  "timestamp": 1701732404000,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/distro-1.8.0-py312h06a4308_0.conda",
+  "version": "1.8.0"
+}

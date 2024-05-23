@@ -1,0 +1,9 @@
+{
+  "VERBOSE_AT": "V=1",
+  "c_compiler": "gcc",
+  "xz": "5",
+  "zlib": "1.2",
+  "channel_targets": "defaults",
+  "c_compiler_version": "11.2.0",
+  "target_platform": "linux-64"
+}

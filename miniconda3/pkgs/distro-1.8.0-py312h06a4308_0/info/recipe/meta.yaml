@@ -1,0 +1,71 @@
+# This file created by conda-build 3.28.0
+# meta.yaml template originally from:
+# /work/perseverance-python-buildout/aggregate/distro-feedstock/recipe, last modified Fri Dec  1 21:38:48 2023
+# ------------------------------------------------
+
+package:
+  name: distro
+  version: 1.8.0
+source:
+  fn: distro-1.8.0.tar.gz
+  sha256: 02e111d1dc6a50abb8eed6bf31c3e48ed8b0830d1ea2a1b78c61765c2513fdd8
+  url: https://pypi.io/packages/source/d/distro/distro-1.8.0.tar.gz
+build:
+  entry_points:
+    - distro = distro.distro:main
+  number: '0'
+  script: /work/perseverance-python-buildout/croot/distro_1701732366176/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/bin/python
+    -m pip install . --no-deps --ignore-installed --no-cache-dir -v --no-build-isolation
+  string: py312h06a4308_0
+requirements:
+  host:
+    - _libgcc_mutex 0.1 main
+    - _openmp_mutex 5.1 1_gnu
+    - bzip2 1.0.8 h7b6447c_0
+    - ca-certificates 2023.08.22 h06a4308_0
+    - expat 2.5.0 h6a678d5_0
+    - ld_impl_linux-64 2.38 h1181459_1
+    - libffi 3.4.4 h6a678d5_0
+    - libgcc-ng 11.2.0 h1234567_1
+    - libgomp 11.2.0 h1234567_1
+    - libstdcxx-ng 11.2.0 h1234567_1
+    - libuuid 1.41.5 h5eee18b_0
+    - ncurses 6.4 h6a678d5_0
+    - openssl 3.0.12 h7f8727e_0
+    - pip 23.3.1 py312h06a4308_0
+    - python 3.12.0 h996f2a0_0
+    - readline 8.2 h5eee18b_0
+    - setuptools 68.0.0 py312h06a4308_0
+    - sqlite 3.41.2 h5eee18b_0
+    - tk 8.6.12 h1ccaba5_0
+    - tzdata 2023c h04d1e81_0
+    - wheel 0.41.2 py312h06a4308_0
+    - xz 5.4.5 h5eee18b_0
+    - zlib 1.2.13 h5eee18b_0
+  run:
+    - python >=3.12,<3.13.0a0
+test:
+  commands:
+    - pip check
+    - distro --help
+  imports:
+    - distro
+  requires:
+    - pip
+about:
+  description: distro provides information about the OS distribution it runs on, such
+    as a reliable machine-readable ID, or version information.
+  dev_url: https://github.com/python-distro/distro
+  doc_url: https://distro.readthedocs.io
+  home: https://github.com/python-distro/distro
+  license: Apache-2.0
+  license_family: Apache
+  license_file: LICENSE
+  summary: A much more elaborate replacement for removed Python's 'platform.linux_distribution()'
+    method
+extra:
+  copy_test_source_files: true
+  final: true
+  recipe-maintainers:
+    - abloemert
+    - windelbouwman

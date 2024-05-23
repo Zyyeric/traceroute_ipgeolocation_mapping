@@ -1,0 +1,22 @@
+{
+  "build": "py312h5eee18b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libffi >=3.4,<3.5",
+    "libgcc-ng >=11.2.0",
+    "pycparser",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "cffi-1.16.0-py312h5eee18b_0.conda",
+  "license": "MIT",
+  "md5": "9e11b6bc3e726b46605945d06a9b9ee4",
+  "name": "cffi",
+  "sha256": "95e3e32d50eae3af870dcb3c70e74c919741131439f0a4b02d30366cdeb66f5f",
+  "size": 313243,
+  "subdir": "linux-64",
+  "timestamp": 1700254416000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/cffi-1.16.0-py312h5eee18b_0.conda",
+  "version": "1.16.0"
+}

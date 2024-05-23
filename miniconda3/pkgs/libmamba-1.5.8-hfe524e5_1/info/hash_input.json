@@ -1,0 +1,10 @@
+{
+  "libcurl": "8.1.1",
+  "channel_targets": "defaults",
+  "bzip2": "1.0",
+  "zstd": "1.5.2",
+  "target_platform": "linux-64",
+  "cxx_compiler": "gxx",
+  "cxx_compiler_version": "11.2.0",
+  "openssl": "3.0"
+}

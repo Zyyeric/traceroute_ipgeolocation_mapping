@@ -1,0 +1,23 @@
+2024-05-16 20:09:55.263 [info] (Client) Pylance async client (2024.5.1) started with python extension (2024.6.0)
+2024-05-16 20:09:55.475 [info] [Info  - 8:09:55 PM] (3548671) Pylance language server 2024.5.1 (pyright version 1.1.360, commit 4bc8428d) starting
+2024-05-16 20:09:55.475 [info] [Info  - 8:09:55 PM] (3548671) Server root directory: file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-16 20:09:55.476 [info] [Info  - 8:09:55 PM] (3548671) Starting service instance "eric"
+2024-05-16 20:09:55.476 [info] [Info  - 8:09:55 PM] (3548671) Auto-Indent enabled
+2024-05-16 20:09:55.490 [info] [Info  - 8:09:55 PM] (3548671) Setting pythonPath for service "eric": "/home/eric/miniconda3/bin/python"
+2024-05-16 20:09:55.490 [info] [Info  - 8:09:55 PM] (3548671) Setting environmentName for service "eric": "3.12.2 (base conda)"
+2024-05-16 20:09:55.504 [info] [Info  - 8:09:55 PM] (3548671) Assuming Python version 3.12.2.final.0
+2024-05-16 20:09:55.596 [info] [Info  - 8:09:55 PM] (3548671) Auto-excluding /home/eric/miniconda3
+2024-05-16 20:09:55.609 [info] [Info  - 8:09:55 PM] (3548671) Found 1 source file
+2024-05-16 20:09:55.672 [info] [Info  - 8:09:55 PM] (3548671) Background analysis(1) root directory: file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-16 20:09:55.673 [info] [Info  - 8:09:55 PM] (3548671) Background analysis(1) started
+2024-05-16 20:09:55.816 [info] [Info  - 8:09:55 PM] (3548671) Indexer background runner(2) root directory: file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist (index)
+2024-05-16 20:09:55.816 [info] [Info  - 8:09:55 PM] (3548671) Indexing(2) started
+2024-05-16 20:09:55.979 [info] [Info  - 8:09:55 PM] (3548671) scanned(2) 42 files over 1 exec env
+2024-05-16 20:09:56.323 [info] [Info  - 8:09:56 PM] (3548671) indexed(2) 23 files over 1 exec env
+2024-05-16 20:09:56.336 [info] [Info  - 8:09:56 PM] (3548671) Indexing finished(2).
+2024-05-16 20:11:11.646 [info] [Info  - 8:11:11 PM] (3548671) Auto-excluding /home/eric/miniconda3
+2024-05-16 20:11:11.654 [info] [Info  - 8:11:11 PM] (3548671) Found 1 source file
+2024-05-16 20:11:37.927 [info] [Info  - 8:11:37 PM] (3548671) Auto-excluding /home/eric/miniconda3
+2024-05-16 20:11:37.934 [info] [Info  - 8:11:37 PM] (3548671) Found 1 source file
+2024-05-16 20:11:52.009 [info] [Info  - 8:11:52 PM] (3548671) Auto-excluding /home/eric/miniconda3
+2024-05-16 20:11:52.015 [info] [Info  - 8:11:52 PM] (3548671) Found 1 source file

@@ -1,0 +1,24 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "boltons >=23.0.0",
+    "conda >=23.7.4",
+    "libmambapy >=1.5.6",
+    "python >=3.8"
+  ],
+  "fn": "conda-libmamba-solver-24.1.0-pyhd3eb1b0_0.conda",
+  "license": "BSD-3-Clause",
+  "md5": "dc2133d8923c982939c6ab9a63a7d39b",
+  "name": "conda-libmamba-solver",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "2707f68aada792d1cf3a44c51d55b38b0cd65b0c192d2a5f9ef0550dc149a7d3",
+  "size": 40190,
+  "subdir": "noarch",
+  "timestamp": 1706733335000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/conda-libmamba-solver-24.1.0-pyhd3eb1b0_0.conda",
+  "version": "24.1.0"
+}
