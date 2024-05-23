@@ -1,0 +1,162 @@
+{
+    "src": "109.230.208.226",
+    "dst": "76.26.115.194",
+    "start_time": 1712537435,
+    "end_time": 1712537444,
+    "hops": [
+        {
+            "ipaddress": "109.230.208.226",
+            "rtt": 0.0,
+            "geoloc": {
+                "city": "Clifton",
+                "state": "New Jersey",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 40.8584,
+                "lon": -74.1638
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "45.159.5.193",
+            "rtt": 0.921,
+            "geoloc": {
+                "city": "New York City",
+                "state": "New York",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 40.7143,
+                "lon": -74.006
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "62.115.44.132",
+            "rtt": 1.672,
+            "geoloc": {
+                "city": "New York City",
+                "state": "New York",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 40.7143,
+                "lon": -74.006
+            },
+            "rdns": "ewr-b1-link.ip.twelve99.net"
+        },
+        {
+            "ipaddress": "62.115.126.178",
+            "rtt": 2.167,
+            "geoloc": {
+                "city": "Newark",
+                "state": "New Jersey",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 40.7357,
+                "lon": -74.1724
+            },
+            "rdns": "nyk-bb2-link.ip.twelve99.net"
+        },
+        {
+            "ipaddress": "62.115.140.193",
+            "rtt": 1.256,
+            "geoloc": {
+                "city": "Iselin",
+                "state": "New Jersey",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 40.5754,
+                "lon": -74.3224
+            },
+            "rdns": "ewr-b3-link.ip.twelve99.net"
+        },
+        {
+            "ipaddress": "213.248.100.209",
+            "rtt": 1.351,
+            "geoloc": {
+                "city": "Woodbridge",
+                "state": "New Jersey",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 40.5576,
+                "lon": -74.2846
+            },
+            "rdns": "comcast-ic-378794.ip.twelve99-cust.net"
+        },
+        {
+            "ipaddress": "96.110.34.1",
+            "rtt": 2.205,
+            "geoloc": {
+                "city": "Jersey City",
+                "state": "New Jersey",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 40.7282,
+                "lon": -74.0776
+            },
+            "rdns": "be-2112-cs01.newark.nj.ibone.comcast.net"
+        },
+        {
+            "ipaddress": "96.110.41.242",
+            "rtt": 4.127,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": "US"
+            },
+            "coords": {
+                "lat": 37.751,
+                "lon": -97.822
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "68.85.137.221",
+            "rtt": 4.486,
+            "geoloc": {
+                "city": "West Chester",
+                "state": "PA",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 39.96097,
+                "lon": -75.60804
+            },
+            "rdns": "be-100-ur22-d.westchester.pa.bo.comcast.net"
+        },
+        {
+            "ipaddress": "68.85.137.217",
+            "rtt": 7.446,
+            "geoloc": {
+                "city": "West Chester",
+                "state": "Pennsylvania",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 39.961,
+                "lon": -75.608
+            },
+            "rdns": "be-101-ur21-d.westchester.pa.bo.comcast.net"
+        },
+        {
+            "ipaddress": "76.26.115.194",
+            "rtt": 8.816,
+            "geoloc": {
+                "city": "Philadelphia",
+                "state": "Pennsylvania",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 39.9524,
+                "lon": -75.1636
+            },
+            "rdns": "ripeatlas-wc-a1p.sys.comcast.net"
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "src": "80.77.4.60",
+    "dst": "196.49.15.189",
+    "start_time": 1712537421,
+    "end_time": 1712537456,
+    "hops": [
+        {
+            "ipaddress": "80.77.4.60",
+            "rtt": 0.0,
+            "geoloc": {
+                "city": "Dubai",
+                "state": "Dubai",
+                "country": "AE"
+            },
+            "coords": {
+                "lat": 25.0772,
+                "lon": 55.3093
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "80.77.4.57",
+            "rtt": 1.696,
+            "geoloc": {
+                "city": "Dubai",
+                "state": "Dubai",
+                "country": "AE"
+            },
+            "coords": {
+                "lat": 25.0772,
+                "lon": 55.3093
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "184.105.64.198",
+            "rtt": 112.27,
+            "geoloc": {
+                "city": "Dubai",
+                "state": "DU",
+                "country": "AE"
+            },
+            "coords": {
+                "lat": 25.2528,
+                "lon": 55.364399
+            },
+            "rdns": "10ge4-11.core1.dxb1.he.net"
+        },
+        {
+            "ipaddress": "184.104.193.102",
+            "rtt": 123.677,
+            "geoloc": {
+                "city": "Marseille",
+                "state": "Provence-Alpes-C\u00f4te d'Azur",
+                "country": "FR"
+            },
+            "coords": {
+                "lat": 43.297,
+                "lon": 5.3811
+            },
+            "rdns": "port-channel1.core3.mrs1.he.net"
+        },
+        {
+            "ipaddress": "184.105.81.30",
+            "rtt": 123.335,
+            "geoloc": {
+                "city": "Marseille",
+                "state": "PAC",
+                "country": "FR"
+            },
+            "coords": {
+                "lat": 43.439272,
+                "lon": 5.221424
+            },
+            "rdns": "port-channel4.core2.mrs1.he.net"
+        },
+        {
+            "ipaddress": "***",
+            "rtt": -Infinity,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "coords": {
+                "lat": null,
+                "lon": null
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "184.104.197.218",
+            "rtt": 123.287,
+            "geoloc": {
+                "city": "London",
+                "state": "ENG",
+                "country": "GB"
+            },
+            "coords": {
+                "lat": 51.4706,
+                "lon": -0.461941
+            },
+            "rdns": "port-channel1.core3.lon2.he.net"
+        },
+        {
+            "ipaddress": "184.105.64.5",
+            "rtt": 136.612,
+            "geoloc": {
+                "city": "London",
+                "state": "England",
+                "country": "GB"
+            },
+            "coords": {
+                "lat": 51.5085,
+                "lon": -0.1257
+            },
+            "rdns": "port-channel4.core1.lon3.he.net"
+        },
+        {
+            "ipaddress": "184.104.205.253",
+            "rtt": 127.392,
+            "geoloc": {
+                "city": "London",
+                "state": "England",
+                "country": "GB"
+            },
+            "coords": {
+                "lat": 51.5085,
+                "lon": -0.1257
+            },
+            "rdns": "mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net"
+        },
+        {
+            "ipaddress": "41.181.189.65",
+            "rtt": 124.374,
+            "geoloc": {
+                "city": "Pretoria",
+                "state": "GP",
+                "country": "ZA"
+            },
+            "coords": {
+                "lat": -25.7599,
+                "lon": 28.2604
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "41.181.105.105",
+            "rtt": 124.245,
+            "geoloc": {
+                "city": "London",
+                "state": "England",
+                "country": "GB"
+            },
+            "coords": {
+                "lat": 51.5085,
+                "lon": -0.1257
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "41.181.244.176",
+            "rtt": 128.383,
+            "geoloc": {
+                "city": "London",
+                "state": "England",
+                "country": "GB"
+            },
+            "coords": {
+                "lat": 51.5085,
+                "lon": -0.1257
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "41.181.247.39",
+            "rtt": 273.824,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": "ZA"
+            },
+            "coords": {
+                "lat": -29.0,
+                "lon": 24.0
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "212.88.110.34",
+            "rtt": 277.018,
+            "geoloc": {
+                "city": "Kampala",
+                "state": "Central Region",
+                "country": "UG"
+            },
+            "coords": {
+                "lat": 0.3163,
+                "lon": 32.5822
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "129.205.30.76",
+            "rtt": 273.701,
+            "geoloc": {
+                "city": "Kampala",
+                "state": "C",
+                "country": "UG"
+            },
+            "coords": {
+                "lat": 0.3162,
+                "lon": 32.5657
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "41.191.77.206",
+            "rtt": 274.056,
+            "geoloc": {
+                "city": "Kampala",
+                "state": "C",
+                "country": "UG"
+            },
+            "coords": {
+                "lat": 0.3162,
+                "lon": 32.5657
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "196.49.15.189",
+            "rtt": 278.479,
+            "geoloc": {
+                "city": "Kampala",
+                "state": "Central Region",
+                "country": "UG"
+            },
+            "coords": {
+                "lat": 0.3163,
+                "lon": 32.5822
+            },
+            "rdns": ""
+        }
+    ]
+}

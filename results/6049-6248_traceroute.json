@@ -1,0 +1,92 @@
+{
+    "src": "213.192.184.42",
+    "dst": "185.42.136.158",
+    "start_time": 1712537682,
+    "end_time": 1712537682,
+    "hops": [
+        {
+            "ipaddress": "213.192.184.42",
+            "rtt": 0.0,
+            "geoloc": {
+                "city": "Helsinki",
+                "state": "Uusimaa",
+                "country": "FI"
+            },
+            "coords": {
+                "lat": 60.1695,
+                "lon": 24.9354
+            },
+            "rdns": "ae1-0.bbr1.sto2.se.eunetip.net"
+        },
+        {
+            "ipaddress": "213.192.184.41",
+            "rtt": 0.0,
+            "geoloc": {
+                "city": "Helsinki",
+                "state": "Uusimaa",
+                "country": "FI"
+            },
+            "coords": {
+                "lat": 60.1695,
+                "lon": 24.9354
+            },
+            "rdns": "ae0-0.bbr1.sto4.se.eunetip.net"
+        },
+        {
+            "ipaddress": "213.192.184.95",
+            "rtt": 4.999,
+            "geoloc": {
+                "city": "Stockholm",
+                "state": "Stockholm",
+                "country": "SE"
+            },
+            "coords": {
+                "lat": 59.3294,
+                "lon": 18.0687
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "194.68.128.172",
+            "rtt": 4.999,
+            "geoloc": {
+                "city": "Stockholm",
+                "state": 26,
+                "country": "SE"
+            },
+            "coords": {
+                "lat": 59.33258,
+                "lon": 18.0649
+            },
+            "rdns": "vl15.ro1-stb.sth.netnod.se"
+        },
+        {
+            "ipaddress": "77.72.228.64",
+            "rtt": 4.999,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": "SE"
+            },
+            "coords": {
+                "lat": 59.3247,
+                "lon": 18.056
+            },
+            "rdns": "et50-1.ro1-stc.sth.netnod.se"
+        },
+        {
+            "ipaddress": "185.42.136.158",
+            "rtt": 4.999,
+            "geoloc": {
+                "city": "Stockholm",
+                "state": "Stockholm",
+                "country": "SE"
+            },
+            "coords": {
+                "lat": 59.3294,
+                "lon": 18.0687
+            },
+            "rdns": "se-sto-as8674.anchors.atlas.ripe.net"
+        }
+    ]
+}

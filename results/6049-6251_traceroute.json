@@ -1,0 +1,106 @@
+{
+    "src": "193.65.45.86",
+    "dst": "185.42.136.158",
+    "start_time": 1712537678,
+    "end_time": 1712537678,
+    "hops": [
+        {
+            "ipaddress": "193.65.45.86",
+            "rtt": 0.0,
+            "geoloc": {
+                "city": "H\u00e4meenlinna",
+                "state": "Kanta-H\u00e4me",
+                "country": "FI"
+            },
+            "coords": {
+                "lat": 60.996,
+                "lon": 24.4643
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "193.65.45.85",
+            "rtt": 0.371,
+            "geoloc": {
+                "city": "Espoo",
+                "state": "Uusimaa",
+                "country": "FI"
+            },
+            "coords": {
+                "lat": 60.2052,
+                "lon": 24.6522
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "139.97.12.223",
+            "rtt": 0.709,
+            "geoloc": {
+                "city": "Sastamala",
+                "state": "Pirkanmaa",
+                "country": "FI"
+            },
+            "coords": {
+                "lat": 61.3494,
+                "lon": 22.9093
+            },
+            "rdns": "tamnal-gw1.fi.elisa.net"
+        },
+        {
+            "ipaddress": "195.140.192.15",
+            "rtt": 0.653,
+            "geoloc": {
+                "city": "Pirkkala",
+                "state": "Pirkanmaa",
+                "country": "FI"
+            },
+            "coords": {
+                "lat": 61.4612,
+                "lon": 23.6323
+            },
+            "rdns": "nordunet.unicast.trex.fi"
+        },
+        {
+            "ipaddress": "77.72.228.9",
+            "rtt": 19.087,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": "SE"
+            },
+            "coords": {
+                "lat": 59.3247,
+                "lon": 18.056
+            },
+            "rdns": "vl2503.se-fre.nordu.net"
+        },
+        {
+            "ipaddress": "77.72.228.8",
+            "rtt": 13.635,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": "SE"
+            },
+            "coords": {
+                "lat": 59.3247,
+                "lon": 18.056
+            },
+            "rdns": "vl2503-et54-1.ro1-stc.sth.netnod.se"
+        },
+        {
+            "ipaddress": "185.42.136.158",
+            "rtt": 13.771,
+            "geoloc": {
+                "city": "Stockholm",
+                "state": "Stockholm",
+                "country": "SE"
+            },
+            "coords": {
+                "lat": 59.3294,
+                "lon": 18.0687
+            },
+            "rdns": "se-sto-as8674.anchors.atlas.ripe.net"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "ip_address": "193.65.45.85",
+        "geolocation": {
+            "city": "Espoo",
+            "state": "Uusimaa",
+            "country": "FI"
+        },
+        "rtt": 0.371,
+        "distance": 88.23216880000757,
+        "radius": 37.074333972666665,
+        "geolocation_within_radius": false
+    },
+    {
+        "ip_address": "139.97.12.223",
+        "geolocation": {
+            "city": "Sastamala",
+            "state": "Pirkanmaa",
+            "country": "FI"
+        },
+        "rtt": 0.709,
+        "distance": 158.0105606432883,
+        "radius": 33.77661693466666,
+        "geolocation_within_radius": false
+    },
+    {
+        "ip_address": "195.140.192.15",
+        "geolocation": {
+            "city": "Pirkkala",
+            "state": "Pirkanmaa",
+            "country": "FI"
+        },
+        "rtt": 0.653,
+        "distance": 40.29997818886601,
+        "radius": 5.5961258826666604,
+        "geolocation_within_radius": false
+    },
+    {
+        "ip_address": "77.72.228.9",
+        "geolocation": {
+            "city": null,
+            "state": null,
+            "country": "SE"
+        },
+        "rtt": 19.087,
+        "distance": 0.0,
+        "radius": 1842.1247235906667,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "77.72.228.8",
+        "geolocation": {
+            "city": null,
+            "state": null,
+            "country": "SE"
+        },
+        "rtt": 13.635,
+        "distance": 0,
+        "radius": 544.8228270053334,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "185.42.136.158",
+        "geolocation": {
+            "city": "Stockholm",
+            "state": "Stockholm",
+            "country": "SE"
+        },
+        "rtt": 13.771,
+        "distance": 0,
+        "radius": 13.590591429333434,
+        "geolocation_within_radius": true
+    }
+]

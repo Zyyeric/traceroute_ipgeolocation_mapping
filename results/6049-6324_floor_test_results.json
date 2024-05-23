@@ -1,0 +1,86 @@
+[
+    {
+        "ip_address": "62.80.227.1",
+        "geolocation": {
+            "city": "\u0160iauliai",
+            "state": "Siauliai",
+            "country": "LT"
+        },
+        "rtt": 0.173,
+        "distance": 0.0,
+        "radius": 17.288031744666664,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "62.80.224.111",
+        "geolocation": {
+            "city": "\u0160iauliai",
+            "state": "Siauliai",
+            "country": "LT"
+        },
+        "rtt": 0.209,
+        "distance": 0.0,
+        "radius": 3.5975094960000003,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "84.32.142.177",
+        "geolocation": {
+            "city": "Vilnius",
+            "state": "Vilnius",
+            "country": "LT"
+        },
+        "rtt": 3.693,
+        "distance": 185.91743358570875,
+        "radius": 348.15897455733335,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "213.226.157.80",
+        "geolocation": {
+            "city": "Vilnius",
+            "state": "Vilnius",
+            "country": "LT"
+        },
+        "rtt": 3.539,
+        "distance": 0.0,
+        "radius": 15.389346177333325,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "194.68.128.172",
+        "geolocation": {
+            "city": "Stockholm",
+            "state": 26,
+            "country": "SE"
+        },
+        "rtt": 18.619,
+        "distance": 675.5512112405437,
+        "radius": 1506.9567555466667,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "77.72.228.64",
+        "geolocation": {
+            "city": null,
+            "state": null,
+            "country": "SE"
+        },
+        "rtt": 18.042,
+        "distance": 0,
+        "radius": 57.66008275533315,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "185.42.136.158",
+        "geolocation": {
+            "city": "Stockholm",
+            "state": "Stockholm",
+            "country": "SE"
+        },
+        "rtt": 18.636,
+        "distance": 0,
+        "radius": 59.35890668399976,
+        "geolocation_within_radius": true
+    }
+]

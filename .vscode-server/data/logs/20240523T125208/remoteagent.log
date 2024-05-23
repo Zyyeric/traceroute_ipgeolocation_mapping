@@ -15,3 +15,18 @@
     at process.<anonymous> (/home/eric/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/out/vs/server/node/server.main.js:189:6057)
     at process.emit (node:events:517:28)
 2024-05-23 15:29:24.008 [info] [<unknown>][69691c15][ExtensionHostConnection] The client has reconnected.
+2024-05-23 17:42:35.445 [warning] No ptyHost heartbeat after 6 seconds
+2024-05-23 17:52:13.307 [info] [<unknown>][84e663c6][ManagementConnection] The client has reconnected.
+2024-05-23 17:52:51.393 [info] [<unknown>][69691c15][ExtensionHostConnection] The client has reconnected.
+2024-05-23 19:07:40.955 [info] [<unknown>][84e663c6][ManagementConnection] The client has reconnected.
+2024-05-23 19:08:11.750 [info] [<unknown>][69691c15][ExtensionHostConnection] The client has reconnected.
+2024-05-23 19:23:27.928 [info] [<unknown>][84e663c6][ManagementConnection] The client has reconnected.
+2024-05-23 19:23:27.934 [info] [<unknown>][69691c15][ExtensionHostConnection] The client has reconnected.
+2024-05-23 19:24:00.399 [info] [<unknown>][84e663c6][ManagementConnection] The client has reconnected.
+2024-05-23 19:24:35.328 [info] [<unknown>][69691c15][ExtensionHostConnection] The client has reconnected.
+2024-05-23 20:07:20.554 [info] [<unknown>][84e663c6][ManagementConnection] The client has reconnected.
+2024-05-23 20:07:20.561 [info] [<unknown>][69691c15][ExtensionHostConnection] The client has reconnected.
+2024-05-23 20:11:48.444 [info] [<unknown>][84e663c6][ManagementConnection] The client has reconnected.
+2024-05-23 20:12:23.706 [info] [<unknown>][69691c15][ExtensionHostConnection] The client has reconnected.
+2024-05-23 20:17:18.706 [info] [<unknown>][69691c15][ExtensionHostConnection] The client has reconnected.
+2024-05-23 20:17:18.707 [info] [<unknown>][84e663c6][ManagementConnection] The client has reconnected.

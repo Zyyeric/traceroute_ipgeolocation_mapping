@@ -1,0 +1,170 @@
+[
+    {
+        "ip_address": "80.77.4.57",
+        "geolocation": {
+            "city": "Dubai",
+            "state": "Dubai",
+            "country": "AE"
+        },
+        "rtt": 1.696,
+        "distance": 0.0,
+        "radius": 169.4826695893333,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "184.105.64.198",
+        "geolocation": {
+            "city": "Dubai",
+            "state": "DU",
+            "country": "AE"
+        },
+        "rtt": 112.27,
+        "distance": 20.2979949058605,
+        "radius": 11049.750416964,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "184.104.193.102",
+        "geolocation": {
+            "city": "Marseille",
+            "state": "Provence-Alpes-C\u00f4te d'Azur",
+            "country": "FR"
+        },
+        "rtt": 123.677,
+        "distance": 4924.708685549708,
+        "radius": 1139.9108561353344,
+        "geolocation_within_radius": false
+    },
+    {
+        "ip_address": "184.105.81.30",
+        "geolocation": {
+            "city": "Marseille",
+            "state": "PAC",
+            "country": "FR"
+        },
+        "rtt": 123.335,
+        "distance": 20.417332312387153,
+        "radius": 34.17634021200129,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "184.105.64.5",
+        "geolocation": {
+            "city": "London",
+            "state": "England",
+            "country": "GB"
+        },
+        "rtt": 136.612,
+        "distance": 23.658477945625012,
+        "radius": 1331.5781676166655,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "184.104.205.253",
+        "geolocation": {
+            "city": "London",
+            "state": "England",
+            "country": "GB"
+        },
+        "rtt": 127.392,
+        "distance": 0.0,
+        "radius": 921.3621542533332,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "41.181.189.65",
+        "geolocation": {
+            "city": "Pretoria",
+            "state": "GP",
+            "country": "ZA"
+        },
+        "rtt": 124.374,
+        "distance": 9029.037575898994,
+        "radius": 301.5912127480001,
+        "geolocation_within_radius": false
+    },
+    {
+        "ip_address": "41.181.105.105",
+        "geolocation": {
+            "city": "London",
+            "state": "England",
+            "country": "GB"
+        },
+        "rtt": 124.245,
+        "distance": 9029.037575898994,
+        "radius": 12.891075693999069,
+        "geolocation_within_radius": false
+    },
+    {
+        "ip_address": "41.181.244.176",
+        "geolocation": {
+            "city": "London",
+            "state": "England",
+            "country": "GB"
+        },
+        "rtt": 128.383,
+        "distance": 0.0,
+        "radius": 413.5137304013339,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "41.181.247.39",
+        "geolocation": {
+            "city": null,
+            "state": null,
+            "country": "ZA"
+        },
+        "rtt": 273.824,
+        "distance": 8679.790964906719,
+        "radius": 14534.038294659333,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "212.88.110.34",
+        "geolocation": {
+            "city": "Kampala",
+            "state": "Central Region",
+            "country": "UG"
+        },
+        "rtt": 277.018,
+        "distance": 2298.942848779349,
+        "radius": 319.1790369506627,
+        "geolocation_within_radius": false
+    },
+    {
+        "ip_address": "129.205.30.76",
+        "geolocation": {
+            "city": "Kampala",
+            "state": "C",
+            "country": "UG"
+        },
+        "rtt": 273.701,
+        "distance": 1.8347245713113314,
+        "radius": 331.4705277286617,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "41.191.77.206",
+        "geolocation": {
+            "city": "Kampala",
+            "state": "C",
+            "country": "UG"
+        },
+        "rtt": 274.056,
+        "distance": 0.0,
+        "radius": 35.47544086332947,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "196.49.15.189",
+        "geolocation": {
+            "city": "Kampala",
+            "state": "Central Region",
+            "country": "UG"
+        },
+        "rtt": 278.479,
+        "distance": 1.8347245713113314,
+        "radius": 441.9940139113335,
+        "geolocation_within_radius": true
+    }
+]

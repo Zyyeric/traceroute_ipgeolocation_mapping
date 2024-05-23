@@ -1,0 +1,148 @@
+{
+    "src": "62.80.227.146",
+    "dst": "185.42.136.158",
+    "start_time": 1712537677,
+    "end_time": 1712537706,
+    "hops": [
+        {
+            "ipaddress": "62.80.227.146",
+            "rtt": 0.0,
+            "geoloc": {
+                "city": "\u0160iauliai",
+                "state": "Siauliai",
+                "country": "LT"
+            },
+            "coords": {
+                "lat": 55.9333,
+                "lon": 23.3167
+            },
+            "rdns": "hst-227-146.splius.lt"
+        },
+        {
+            "ipaddress": "62.80.227.1",
+            "rtt": 0.173,
+            "geoloc": {
+                "city": "\u0160iauliai",
+                "state": "Siauliai",
+                "country": "LT"
+            },
+            "coords": {
+                "lat": 55.9333,
+                "lon": 23.3167
+            },
+            "rdns": "hst-227-1.splius.lt"
+        },
+        {
+            "ipaddress": "62.80.224.111",
+            "rtt": 0.209,
+            "geoloc": {
+                "city": "\u0160iauliai",
+                "state": "Siauliai",
+                "country": "LT"
+            },
+            "coords": {
+                "lat": 55.9333,
+                "lon": 23.3167
+            },
+            "rdns": "sl-111.splius.lt"
+        },
+        {
+            "ipaddress": "84.32.142.177",
+            "rtt": 3.693,
+            "geoloc": {
+                "city": "Vilnius",
+                "state": "Vilnius",
+                "country": "LT"
+            },
+            "coords": {
+                "lat": 54.6892,
+                "lon": 25.2798
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "213.226.157.80",
+            "rtt": 3.539,
+            "geoloc": {
+                "city": "Vilnius",
+                "state": "Vilnius",
+                "country": "LT"
+            },
+            "coords": {
+                "lat": 54.6892,
+                "lon": 25.2798
+            },
+            "rdns": ""
+        },
+        {
+            "ipaddress": "***",
+            "rtt": -Infinity,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "coords": {
+                "lat": null,
+                "lon": null
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "***",
+            "rtt": -Infinity,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "coords": {
+                "lat": null,
+                "lon": null
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "194.68.128.172",
+            "rtt": 18.619,
+            "geoloc": {
+                "city": "Stockholm",
+                "state": 26,
+                "country": "SE"
+            },
+            "coords": {
+                "lat": 59.33258,
+                "lon": 18.0649
+            },
+            "rdns": "vl15.ro1-stb.sth.netnod.se"
+        },
+        {
+            "ipaddress": "77.72.228.64",
+            "rtt": 18.042,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": "SE"
+            },
+            "coords": {
+                "lat": 59.3247,
+                "lon": 18.056
+            },
+            "rdns": "et50-1.ro1-stc.sth.netnod.se"
+        },
+        {
+            "ipaddress": "185.42.136.158",
+            "rtt": 18.636,
+            "geoloc": {
+                "city": "Stockholm",
+                "state": "Stockholm",
+                "country": "SE"
+            },
+            "coords": {
+                "lat": 59.3294,
+                "lon": 18.0687
+            },
+            "rdns": "se-sto-as8674.anchors.atlas.ripe.net"
+        }
+    ]
+}

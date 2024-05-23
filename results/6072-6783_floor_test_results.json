@@ -1,0 +1,122 @@
+[
+    {
+        "ip_address": "45.159.5.193",
+        "geolocation": {
+            "city": "New York City",
+            "state": "New York",
+            "country": "US"
+        },
+        "rtt": 0.921,
+        "distance": 20.814538533012545,
+        "radius": 92.03628460600001,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "62.115.44.132",
+        "geolocation": {
+            "city": "New York City",
+            "state": "New York",
+            "country": "US"
+        },
+        "rtt": 1.672,
+        "distance": 0.0,
+        "radius": 75.04804531933333,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "62.115.126.178",
+        "geolocation": {
+            "city": "Newark",
+            "state": "New Jersey",
+            "country": "US"
+        },
+        "rtt": 2.167,
+        "distance": 14.222857995296573,
+        "radius": 49.465755569999985,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "62.115.140.193",
+        "geolocation": {
+            "city": "Iselin",
+            "state": "New Jersey",
+            "country": "US"
+        },
+        "rtt": 1.256,
+        "distance": 21.859264284932824,
+        "radius": 91.03697641266665,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "213.248.100.209",
+        "geolocation": {
+            "city": "Woodbridge",
+            "state": "New Jersey",
+            "country": "US"
+        },
+        "rtt": 1.351,
+        "distance": 3.756652381506692,
+        "radius": 9.493427836666664,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "96.110.34.1",
+        "geolocation": {
+            "city": "Jersey City",
+            "state": "New Jersey",
+            "country": "US"
+        },
+        "rtt": 2.205,
+        "distance": 25.785447693854707,
+        "radius": 85.34091971066667,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "96.110.41.242",
+        "geolocation": {
+            "city": null,
+            "state": null,
+            "country": "US"
+        },
+        "rtt": 4.127,
+        "distance": 0,
+        "radius": 192.06703475866664,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "68.85.137.221",
+        "geolocation": {
+            "city": "West Chester",
+            "state": "PA",
+            "country": "US"
+        },
+        "rtt": 4.486,
+        "distance": 0,
+        "radius": 35.87516414066666,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "68.85.137.217",
+        "geolocation": {
+            "city": "West Chester",
+            "state": "Pennsylvania",
+            "country": "US"
+        },
+        "rtt": 7.446,
+        "distance": 0.004769726368351695,
+        "radius": 295.7952252266667,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "76.26.115.194",
+        "geolocation": {
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "country": "US"
+        },
+        "rtt": 8.816,
+        "distance": 37.89018156118306,
+        "radius": 136.90522248666676,
+        "geolocation_within_radius": true
+    }
+]

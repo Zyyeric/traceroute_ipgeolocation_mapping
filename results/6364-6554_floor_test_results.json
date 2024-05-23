@@ -1,0 +1,74 @@
+[
+    {
+        "ip_address": "200.1.123.253",
+        "geolocation": {
+            "city": "Santiago",
+            "state": "Santiago Metropolitan",
+            "country": "CL"
+        },
+        "rtt": 0.504,
+        "distance": 0.0,
+        "radius": 50.365132944,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "200.16.114.22",
+        "geolocation": {
+            "city": null,
+            "state": null,
+            "country": "CL"
+        },
+        "rtt": 3.001,
+        "distance": 0,
+        "radius": 249.5272558753333,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "69.79.102.47",
+        "geolocation": {
+            "city": null,
+            "state": null,
+            "country": "US"
+        },
+        "rtt": 153.601,
+        "distance": 0,
+        "radius": 2434.514620598666,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "69.79.106.51",
+        "geolocation": {
+            "city": null,
+            "state": null,
+            "country": "US"
+        },
+        "rtt": 130.115,
+        "distance": 0,
+        "radius": 2346.9752228626658,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "200.58.244.31",
+        "geolocation": {
+            "city": "Sos\u00faa",
+            "state": "Puerto Plata",
+            "country": "DO"
+        },
+        "rtt": 128.415,
+        "distance": 1142.3440638122072,
+        "radius": 169.88239286666837,
+        "geolocation_within_radius": false
+    },
+    {
+        "ip_address": "45.65.244.254",
+        "geolocation": {
+            "city": "Sos\u00faa",
+            "state": "Puerto Plata",
+            "country": "DO"
+        },
+        "rtt": 129.07,
+        "distance": 0.0,
+        "radius": 65.45468666333345,
+        "geolocation_within_radius": true
+    }
+]

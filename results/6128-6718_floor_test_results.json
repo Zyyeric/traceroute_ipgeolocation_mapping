@@ -1,0 +1,74 @@
+[
+    {
+        "ip_address": "101.53.31.5",
+        "geolocation": {
+            "city": "Qu\u1eadn M\u1ed9t",
+            "state": "Ho Chi Minh",
+            "country": "VN"
+        },
+        "rtt": 0.686,
+        "distance": 8.958077418450051,
+        "radius": 68.55254206266667,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "210.86.233.37",
+        "geolocation": {
+            "city": "Qu\u1eadn M\u1ed9t",
+            "state": "Ho Chi Minh",
+            "country": "VN"
+        },
+        "rtt": 2.352,
+        "distance": 0.0,
+        "radius": 16.188792731999992,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "210.86.233.10",
+        "geolocation": {
+            "city": "Singapore",
+            "state": "Singapore",
+            "country": "SG"
+        },
+        "rtt": 18.69,
+        "distance": 1101.273983970687,
+        "radius": 1632.669726268,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "27.111.228.83",
+        "geolocation": {
+            "city": "Seogwipo",
+            "state": null,
+            "country": "KR"
+        },
+        "rtt": 94.721,
+        "distance": 4271.2914782528005,
+        "radius": 7597.840124732667,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "210.56.8.180",
+        "geolocation": {
+            "city": "Islamabad",
+            "state": "IS",
+            "country": "PK"
+        },
+        "rtt": 107.755,
+        "distance": 14.01316261641946,
+        "radius": 662.241539722001,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "210.56.11.202",
+        "geolocation": {
+            "city": "Islamabad",
+            "state": "Islamabad",
+            "country": "PK"
+        },
+        "rtt": 107.282,
+        "distance": 0.2010040303058119,
+        "radius": 47.26727754466656,
+        "geolocation_within_radius": true
+    }
+]

@@ -1,0 +1,162 @@
+{
+    "src": "200.1.122.55",
+    "dst": "45.65.244.254",
+    "start_time": 1712537674,
+    "end_time": 1712537708,
+    "hops": [
+        {
+            "ipaddress": "200.1.122.55",
+            "rtt": 0.0,
+            "geoloc": {
+                "city": "Santiago",
+                "state": "Santiago Metropolitan",
+                "country": "CL"
+            },
+            "coords": {
+                "lat": -33.4569,
+                "lon": -70.6483
+            },
+            "rdns": "unassigned.nic.cl"
+        },
+        {
+            "ipaddress": "200.1.123.253",
+            "rtt": 0.504,
+            "geoloc": {
+                "city": "Santiago",
+                "state": "Santiago Metropolitan",
+                "country": "CL"
+            },
+            "coords": {
+                "lat": -33.4569,
+                "lon": -70.6483
+            },
+            "rdns": "ciscoa1.nic.cl"
+        },
+        {
+            "ipaddress": "200.16.114.22",
+            "rtt": 3.001,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": "CL"
+            },
+            "coords": {
+                "lat": -33.439,
+                "lon": -70.6432
+            },
+            "rdns": "ciscoc1e.nic.cl"
+        },
+        {
+            "ipaddress": "***",
+            "rtt": -Infinity,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "coords": {
+                "lat": null,
+                "lon": null
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "190.211.167.5",
+            "rtt": 5.533,
+            "geoloc": {
+                "city": "Hualane",
+                "state": "ML",
+                "country": "CL"
+            },
+            "coords": {
+                "lat": -34.984,
+                "lon": -71.8215
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "***",
+            "rtt": -Infinity,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "coords": {
+                "lat": null,
+                "lon": null
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "80.239.192.45",
+            "rtt": 129.239,
+            "geoloc": {
+                "city": "Miami",
+                "state": "Florida",
+                "country": "US"
+            },
+            "coords": {
+                "lat": 25.7743,
+                "lon": -80.1937
+            },
+            "rdns": "dominicancable-ic-375823.ip.twelve99-cust.net"
+        },
+        {
+            "ipaddress": "69.79.102.47",
+            "rtt": 153.601,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": "US"
+            },
+            "coords": {
+                "lat": 37.751,
+                "lon": -97.822
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "69.79.106.51",
+            "rtt": 130.115,
+            "geoloc": {
+                "city": null,
+                "state": null,
+                "country": "US"
+            },
+            "coords": {
+                "lat": 37.751,
+                "lon": -97.822
+            },
+            "rdns": null
+        },
+        {
+            "ipaddress": "200.58.244.31",
+            "rtt": 128.415,
+            "geoloc": {
+                "city": "Sos\u00faa",
+                "state": "Puerto Plata",
+                "country": "DO"
+            },
+            "coords": {
+                "lat": 19.7522,
+                "lon": -70.5199
+            },
+            "rdns": "sosua-100g-244-31.cableatlantico.com"
+        },
+        {
+            "ipaddress": "45.65.244.254",
+            "rtt": 129.07,
+            "geoloc": {
+                "city": "Sos\u00faa",
+                "state": "Puerto Plata",
+                "country": "DO"
+            },
+            "coords": {
+                "lat": 19.7522,
+                "lon": -70.5199
+            },
+            "rdns": "ripeatlas-anchor.cableatlantico.com"
+        }
+    ]
+}
