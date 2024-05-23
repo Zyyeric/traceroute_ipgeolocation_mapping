@@ -6,37 +6,13 @@ import json
 import os
 
 
-def traceroute_to_dict(tr):
-    traceroute_dict = {
-        'src': tr.src,
-        'dst': tr.dst,
-        'start_time': tr.start_time,
-        'end_time': tr.end_time,
-        'hops': [hop_to_dict(hop) for hop in tr.hops]
-    }
-    return traceroute_dict
-
-def hop_to_dict(hop):
-    return {
-        'ipaddress': hop.addr,
-        'rtt': hop.rtt,
-        'geoloc': {
-            'city': hop.geoloc.city if hop.geoloc else None,
-            'state': hop.geoloc.state if hop.geoloc else None,
-            'country': hop.geoloc.country if hop.geoloc else None
-        },
-        'coords': {
-            'lat': hop.coords.lat if hop.coords else None,
-            'lon': hop.coords.lon if hop.coords else None
-        },
-        'rdns': hop.rdns
-    }
 
 def calculate_radius(curr_min_rtt, prev_min_rtt):
     if curr_min_rtt is None:
         print("Error when parsing RTTs; Cannot Calculate Radius")
         return None
     
+    print(curr_min_rtt, prev_min_rtt)
     rtt_diff = abs(curr_min_rtt - prev_min_rtt)
     speed_of_light = 299.792458  # Speed of light in km/ms
     radius = (rtt_diff / 2) * ((speed_of_light) * (2 / 3))  # travel speed of optic fiber
@@ -46,6 +22,7 @@ def is_within_radius(distance, radius):
     if distance <= radius:
         return True 
     else:
+        print(f"A wrong IP mapping has occurred: distance = {distance}, radius = {radius}")
         return False
 
 # compute the nearest points between two countries 
@@ -54,14 +31,10 @@ def dist_bet_countries(country, prev_country, distance_map):
 
 # compute the distance between two pairs of coordinates
 def dist_bet_coords(lon1, lat1, lon2, lat2):
-    if None in [lat1, lon1, lat2, lon2]:
-        print(f"Invalid coordinates received: {lat1}, {lon1}, {lat2}, {lon2}")
-        return False
-    
     lat1, lon1, lat2, lon2 = map(math.radians, [lat1, lon1, lat2, lon2])
 
     dlat = lat2 - lat1
-    dlon = lon2 - lon1
+    dlon = lon1 - lat2
 
     a = math.sin(dlat / 2)**2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon / 2)**2
     c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
@@ -90,6 +63,13 @@ def process_traceroute(tr, distance_map):
         country = geolocation.country if geolocation and geolocation.country else None
         lon = hop.coords.lon if hop.coords else None
         lat = hop.coords.lat if hop.coords else None
+        print(city, country, lon, lat)
+
+        all_data_points.append({
+            'ip_address': ip_address,
+            'rtt': rtt,
+            'geolocation': geolocation  # Convert namedtuple to dictionary
+        })
 
         # if the program wants to pause immediately after encounterring an invalid hop 
         #if rtt is None or geolocation is None:
@@ -97,6 +77,7 @@ def process_traceroute(tr, distance_map):
         
         # if the code wants to preceed even encounter an invalid hop 
         if rtt is None or geolocation is None: 
+            print("do we get here")
             first_valid_row = False
             continue
 
@@ -107,24 +88,17 @@ def process_traceroute(tr, distance_map):
         
         if city is None or prev_city is None:
             distance = dist_bet_countries(country, prev_country, distance_map)
-
             
         distance = dist_bet_coords(lon, lat, prev_lon, prev_lat) 
 
         radius = calculate_radius(rtt, prev_rtt)
-
-        print(distance, radius)
         within_radius = is_within_radius(distance, radius)
+
+        print(f"Processing hop: {ip_address}, rtt: {rtt}, prev_rtt: {prev_rtt}, distance: {distance}, radius: {radius}, within_radius: {within_radius}")
 
         floor_test_results.append({
             'ip_address': ip_address,
-            'geolocation':{
-                'city': city,
-                'state': state,
-                'country': country,
-            }, 
             'rtt': rtt,
-            'distance': distance,
             'radius': radius,
             'geolocation_within_radius': within_radius
         })
@@ -132,7 +106,7 @@ def process_traceroute(tr, distance_map):
         prev_lon, prev_lat, prev_city, prev_state, prev_country, prev_rtt= lon, lat, city, state, country, rtt
 
     return {
-        'traceroute': tr,
+        'all_data_points': all_data_points,
         'floor_test_results': floor_test_results
     }
 
@@ -160,23 +134,10 @@ def main():
                 tr = RIPETraceroute(tr_json)
                 result = process_traceroute(tr, distance_map)
                 
-                # extract the base filename
-                base_filename = os.path.splitext(traceroute_pkl)[0]
-                
-                # Write the floor test results to a JSON file
-                floor_test_filename = f"results/{base_filename}_floor_test_results.json"
-                with open(floor_test_filename, 'w') as f:
-                    json.dump(result['floor_test_results'], f, indent=4)
-                
-                print(f"Floor test results written to: {floor_test_filename}")
-
-                traceroute_dict = traceroute_to_dict(tr)
-
-                traceroute_filename = f"results/{base_filename}_traceroute.json"
-                with open(traceroute_filename, 'w') as f:
-                    json.dump(traceroute_dict, f, indent=4)
-                
-                print(f"Traceroute object written to: {traceroute_filename}")
+                # Example of using the result
+                print("Floor Test Results:")
+                for res in result['floor_test_results']:
+                    print(res)
             
             except FileNotFoundError:
                 print(f"File '{filename}' not found. Please try again.")

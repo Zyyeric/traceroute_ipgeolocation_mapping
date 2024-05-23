@@ -124,7 +124,6 @@ def process_traceroute(tr, distance_map):
                 'country': country,
             }, 
             'rtt': rtt,
-            'distance': distance,
             'radius': radius,
             'geolocation_within_radius': within_radius
         })

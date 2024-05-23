@@ -54,14 +54,10 @@ def dist_bet_countries(country, prev_country, distance_map):
 
 # compute the distance between two pairs of coordinates
 def dist_bet_coords(lon1, lat1, lon2, lat2):
-    if None in [lat1, lon1, lat2, lon2]:
-        print(f"Invalid coordinates received: {lat1}, {lon1}, {lat2}, {lon2}")
-        return False
-    
     lat1, lon1, lat2, lon2 = map(math.radians, [lat1, lon1, lat2, lon2])
 
     dlat = lat2 - lat1
-    dlon = lon2 - lon1
+    dlon = lon1 - lat2
 
     a = math.sin(dlat / 2)**2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon / 2)**2
     c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
@@ -91,6 +87,12 @@ def process_traceroute(tr, distance_map):
         lon = hop.coords.lon if hop.coords else None
         lat = hop.coords.lat if hop.coords else None
 
+        all_data_points.append({
+            'ip_address': ip_address,
+            'rtt': rtt,
+            'geolocation': geolocation  # Convert namedtuple to dictionary
+        })
+
         # if the program wants to pause immediately after encounterring an invalid hop 
         #if rtt is None or geolocation is None:
         #    break
@@ -107,24 +109,15 @@ def process_traceroute(tr, distance_map):
         
         if city is None or prev_city is None:
             distance = dist_bet_countries(country, prev_country, distance_map)
-
             
         distance = dist_bet_coords(lon, lat, prev_lon, prev_lat) 
 
         radius = calculate_radius(rtt, prev_rtt)
-
-        print(distance, radius)
         within_radius = is_within_radius(distance, radius)
 
         floor_test_results.append({
             'ip_address': ip_address,
-            'geolocation':{
-                'city': city,
-                'state': state,
-                'country': country,
-            }, 
             'rtt': rtt,
-            'distance': distance,
             'radius': radius,
             'geolocation_within_radius': within_radius
         })
