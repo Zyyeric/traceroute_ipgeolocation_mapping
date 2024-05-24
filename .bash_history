@@ -121,3 +121,55 @@ python test.py
 conda activate geo
 python test.py --file 6053-6506.pickle
 /usr/bin/python3 /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+conda activate geo
+python test.py --file 6053-6506.pickle
+npm install geopandas
+pip install geopandas
+python coountry_dist_cal.py
+python country_dist_cal.py
+pip install pycountry
+python country_dist_cal.py
+python test.py
+python test.py --file 6053-6506.pickle
+python country_dist.py
+python test.py --file 6053-6506.pickle
+python floor_test.py --file 6053-6506.pickle
+git remote add origin https://github.com/Zyyeric/traceroute_ipgeolocation_mapping.git
+git init
+git add README.md
+echo "# traceroute_ipgeolocation_mapping" >> README.md
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Zyyeric/traceroute_ipgeolocation_mapping.git
+git push -u origin main
+git commit -m "inital"
+git add .
+git commit -m "inital implementation"
+git push
+python floor_test.py --file 6053-6506.pickle
+python floor_test.py
+clear
+python floor_test.py
+git add .
+git commit -m "included geolocation, distance within floor test result" 
+git push
+floor_test.py
+python floor_test.py
+python country_dist.py
+python floor_test
+python floor_test.py
+pip install haversine
+python floor_test.py
+python country_dist.py
+python floor_test.py
+python country_dist.py
+python floor_test.py
+python country_dist.py
+python floor_test.py
+python country_dist.py
+python floor_test.py
+git add .
+git commit -m "week 9" 
+git push
+exit 

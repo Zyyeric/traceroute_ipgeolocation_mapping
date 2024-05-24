@@ -30,3 +30,6 @@
 2024-05-23 20:12:23.706 [info] [<unknown>][69691c15][ExtensionHostConnection] The client has reconnected.
 2024-05-23 20:17:18.706 [info] [<unknown>][69691c15][ExtensionHostConnection] The client has reconnected.
 2024-05-23 20:17:18.707 [info] [<unknown>][84e663c6][ManagementConnection] The client has reconnected.
+2024-05-23 23:19:26.033 [info] [<unknown>][69691c15][ExtensionHostConnection] <4007608> Extension Host Process exited with code: 0, signal: null.
+2024-05-23 23:19:26.033 [info] Last EH closed, waiting before shutting down
+2024-05-23 23:24:26.035 [info] Last EH closed, shutting down

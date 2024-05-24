@@ -1,0 +1,31 @@
+2024-05-24 00:02:27.875 [info] (Client) Pylance async client (2024.5.1) started with python extension (2024.6.0)
+2024-05-24 00:02:28.078 [info] [Info  - 12:02:28 AM] (4051024) Pylance language server 2024.5.1 (pyright version 1.1.360, commit 4bc8428d) starting
+2024-05-24 00:02:28.079 [info] [Info  - 12:02:28 AM] (4051024) Server root directory: file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-24 00:02:28.079 [info] [Info  - 12:02:28 AM] (4051024) Starting service instance "eric"
+2024-05-24 00:02:28.079 [info] [Info  - 12:02:28 AM] (4051024) Auto-Indent enabled
+2024-05-24 00:02:28.097 [info] [Info  - 12:02:28 AM] (4051024) Setting pythonPath for service "eric": "/home/eric/miniconda3/bin/python"
+2024-05-24 00:02:28.097 [info] [Info  - 12:02:28 AM] (4051024) Setting environmentName for service "eric": "3.12.2 (base conda)"
+2024-05-24 00:02:28.111 [info] [Info  - 12:02:28 AM] (4051024) Assuming Python version 3.12.2.final.0
+2024-05-24 00:02:28.206 [info] [Info  - 12:02:28 AM] (4051024) Auto-excluding /home/eric/miniconda3
+2024-05-24 00:02:28.221 [info] [Info  - 12:02:28 AM] (4051024) Found 2 source files
+2024-05-24 00:02:28.273 [info] [Info  - 12:02:28 AM] (4051024) Background analysis(1) root directory: file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-24 00:02:28.274 [info] [Info  - 12:02:28 AM] (4051024) Background analysis(1) started
+2024-05-24 00:02:28.431 [info] [Info  - 12:02:28 AM] (4051024) Indexer background runner(2) root directory: file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist (index)
+2024-05-24 00:02:28.431 [info] [Info  - 12:02:28 AM] (4051024) Indexing(2) started
+2024-05-24 00:02:28.589 [info] [Info  - 12:02:28 AM] (4051024) scanned(2) 42 files over 1 exec env
+2024-05-24 00:02:28.702 [info] [Info  - 12:02:28 AM] (4051024) indexed(2) 23 files over 1 exec env
+2024-05-24 00:02:28.716 [info] [Info  - 12:02:28 AM] (4051024) Indexing finished(2).
+2024-05-24 00:02:28.930 [info] [Info  - 12:02:28 AM] (4051024) Setting pythonPath for service "eric": "/home/eric/miniconda3/bin/python"
+2024-05-24 00:02:28.930 [info] [Info  - 12:02:28 AM] (4051024) Setting environmentName for service "eric": "3.12.2 (base conda)"
+2024-05-24 00:02:28.948 [info] [Info  - 12:02:28 AM] (4051024) Assuming Python version 3.12.2.final.0
+2024-05-24 00:02:29.049 [info] [Info  - 12:02:29 AM] (4051024) Auto-excluding /home/eric/miniconda3
+2024-05-24 00:02:29.059 [info] [Info  - 12:02:29 AM] (4051024) Found 2 source files
+2024-05-24 00:02:29.255 [info] [Info  - 12:02:29 AM] (4051024) Indexer background runner(3) root directory: file:///home/eric/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist (index)
+2024-05-24 00:02:29.255 [info] [Info  - 12:02:29 AM] (4051024) Indexing(3) started
+2024-05-24 00:02:29.379 [info] [Info  - 12:02:29 AM] (4051024) scanned(3) 42 files over 1 exec env
+2024-05-24 00:02:29.471 [info] [Info  - 12:02:29 AM] (4051024) indexed(3) 23 files over 1 exec env
+2024-05-24 00:02:29.480 [info] [Info  - 12:02:29 AM] (4051024) Indexing finished(3).
+2024-05-24 00:02:54.498 [info] [Info  - 12:02:54 AM] (4051024) Auto-excluding /home/eric/miniconda3
+2024-05-24 00:02:54.505 [info] [Info  - 12:02:54 AM] (4051024) Found 2 source files
+2024-05-24 00:02:59.156 [info] [Info  - 12:02:59 AM] (4051024) Auto-excluding /home/eric/miniconda3
+2024-05-24 00:02:59.163 [info] [Info  - 12:02:59 AM] (4051024) Found 2 source files

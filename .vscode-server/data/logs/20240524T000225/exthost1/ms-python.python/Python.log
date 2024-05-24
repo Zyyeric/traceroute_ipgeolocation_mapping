@@ -1,0 +1,25 @@
+2024-05-24 00:02:27.026 [info] Experiment 'pythonCreateEnvOnPipInstallcf' is active
+2024-05-24 00:02:27.026 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-24 00:02:27.026 [info] Experiment 'pythonSurveyNotification' is active
+2024-05-24 00:02:27.026 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-24 00:02:27.026 [info] Experiment 'pythonTestAdapter' is active
+2024-05-24 00:02:27.026 [info] Default formatter is set to null for workspace /home/eric
+2024-05-24 00:02:27.026 [info] Python interpreter path: ./miniconda3/bin/python
+2024-05-24 00:02:27.202 [info] > pyenv which python
+2024-05-24 00:02:27.202 [info] cwd: .
+2024-05-24 00:02:27.236 [info] > conda info --json
+2024-05-24 00:02:27.236 [info] shell: bash
+2024-05-24 00:02:27.581 [info] > conda run -n base --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-24 00:02:27.581 [info] shell: bash
+2024-05-24 00:02:27.592 [info] Shell integration status changed, can confirm it's working.
+2024-05-24 00:02:27.597 [info] > conda run -n base --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-24 00:02:27.597 [info] shell: bash
+2024-05-24 00:02:27.870 [info] > /usr/bin/python3 ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-24 00:02:27.870 [info] shell: bash
+2024-05-24 00:02:27.874 [info] > /usr/bin/python3 ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-24 00:02:27.874 [info] shell: bash
+2024-05-24 00:02:27.882 [info] Setting environment variable CONDA_ROOT in collection to /home/eric/miniconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-24 00:02:27.882 [info] Send text to terminal: /usr/bin/python3 /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/eric/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+2024-05-24 00:02:27.885 [info] Setting environment variable CONDA_ROOT in collection to /home/eric/miniconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-24 00:02:28.086 [info] Starting Pylance language server.
+2024-05-24 00:02:32.864 [info] > conda info --json
